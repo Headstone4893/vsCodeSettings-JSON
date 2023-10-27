@@ -1,0 +1,36 @@
+{
+	"workbench.startupEditor": "none",
+	"editor.fontSize": 15,
+	"editor.fontFamily": "'Vict orMono Nerd Font', 'Iosevka Nerd Font', 'JetBrainsMono Nerd Font', monospace",
+	"editor.fontLigatures": true,
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.smoothScrolling": true,
+	"editor.tabSize": 2,
+	"emmet.syntaxProfiles": {
+		"html": {
+			"inline_break": true
+		}
+	},
+	"editor.guides.bracketPairs": true,
+	"editor.linkedEditing": true,
+	"breadcrumbs.enabled": false,
+	"workbench.sideBar.location": "right",
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.colorTheme": "SynthWave '84",
+	"editor.wordWrap": "on",
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"terminal.integrated.defaultProfile.windows": "Git Bash",
+	"editor.minimap.enabled": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"explorer.confirmDragAndDrop": false,
+	"workbench.activityBar.visible": true,
+	"editor.formatOnSave": true,
+	"editor.overviewRulerBorder": false,
+	"editor.hideCursorInOverviewRuler": true,
+	"synthwave84.brightness": 0.45,
+	"editor.detectIndentation": true,
+	"window.zoomLevel": -1
+}
